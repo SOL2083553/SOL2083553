@@ -18,6 +18,5 @@
 | Limonada de skill transfer | ![Não postado](https://img.shields.io/badge/N%C3%A3o%20postado-red?style=flat-square) |
 | 101 filho útil | ![Não postado](https://img.shields.io/badge/N%C3%A3o%20postado-red?style=flat-square) |
 | Não é culpa do ego | ![Não postado](https://img.shields.io/badge/N%C3%A3o%20postado-red?style=flat-square) |
-
+| Pseudoquiatria | ![Não postado](https://img.shields.io/badge/N%C3%A3o%20postado-red?style=flat-square) |
 ---
-*Para o futuro Victor, caso haja interesse.*
